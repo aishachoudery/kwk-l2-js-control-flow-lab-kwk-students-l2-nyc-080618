@@ -1,5 +1,5 @@
 // Write your code in this file!
-var ride = ""
-function scuberGreetingForFeet() {
+
+function scuberGreetingForFeet(ride) {
   if ride >
 }
